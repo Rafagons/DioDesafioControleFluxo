@@ -3,7 +3,7 @@
 
 👩🏻‍💻 Descrição do Projeto:
 
-Esse projeto foi elaborado durante o bootcampSantander 2024 - Backend com Java da DIO, no qual criamos um desafio de projeto, exploramos alguns cenários com fluxos condicionais, repetições e excepcionais.
+Esse projeto foi elaborado durante o bootcampSantander 2024 - Backend com Java da DIO, no qual executamos um desafio de projeto, explorando alguns cenários com fluxos condicionais, repetições e excepcionais.
 No final para exercitar todo o conteúdo ministrado nas aulas, implementamos um pequeno sistema contador solicitado no cenário a seguir:
 
 Controle de Fluxo - Desafio

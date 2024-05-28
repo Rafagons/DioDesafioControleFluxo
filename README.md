@@ -1,4 +1,4 @@
-# 🚀 Projeto DIO Processo Seletivo
+# 🚀 Projeto DIO Controle de Fluxo - Desafio
 ********************************************************************************************
 
 👩🏻‍💻 Descrição do Projeto:
@@ -20,6 +20,18 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 
 Segue Prints de Execução do Codigo:
 
+Cenário 1:
+![image](https://github.com/Rafagons/DioDesafioControleFluxo/blob/a6280ed1c464eee92773f74f2e02b0e46ad23647/imgexemplos/Exemplo1.PNG)
+
+Cenário 2:
+![image](https://github.com/Rafagons/DioDesafioControleFluxo/blob/a6280ed1c464eee92773f74f2e02b0e46ad23647/imgexemplos/Exemplo2.PNG)
+
+Cenário 3:
+![image](https://github.com/Rafagons/DioDesafioControleFluxo/blob/a6280ed1c464eee92773f74f2e02b0e46ad23647/imgexemplos/Exemplo3.PNG)
+
+Cenário 4:
+![image](https://github.com/Rafagons/DioDesafioControleFluxo/blob/a6280ed1c464eee92773f74f2e02b0e46ad23647/imgexemplos/Exemplo4.PNG)
+
 
 ## 🛠️ Construído com
 
@@ -27,6 +39,8 @@ Segue Prints de Execução do Codigo:
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE Utilizada para criação e edição do código.
 
 ---
-⌨Criado por [Rafagons](https://github.com/Rafagons)
 
-Para ver o projeto do professor e o que ele solicitou no desafio, pode ver [aqui.](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+Se quiser saber mais sobre o projeto as solicitações do professor, clique [aqui.](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+
+
+⌨Criado por [Rafagons](https://github.com/Rafagons)
